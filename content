@@ -1,0 +1,94 @@
+Color Theory For Web Developers
+Color is the OG of Progressive&nbsp;Enhancement
+img/color-bars.jpg
+We Remember Colors
+Coca-Cola
+Dark Navy and Orange
+Bleed Cubbie Blue
+Good Guys Where Black
+img/sox.png
+Science And Art
+Science
+What is Color?
+Color is About Light
+Color is Light Reflection
+Different&nbsp;Wavelengths<br />=<br/>Different&nbsp;Colors
+Color is Perceived by Cones
+Art
+Colors Inspire Feelings
+Colors Have Many Meanings
+Science And Art
+Warm vs. Cool Colors
+Warm
+Red, Orange, Yellow
+Cool
+Purple*, Blue, Green*
+img/wheel.jpg
+Warm&nbsp;Implies<br>Passion
+Warm&nbsp;Implies<br>Energy
+Warm&nbsp;Implies<br>Happiness
+Cool&nbsp;Implies<br>Calm
+Cool&nbsp;Implies<br>Professional
+International Color Perception
+Red Means Stop
+Red Means Joy
+White is for Weddings
+Red is for Weddings
+Black is for Funerals
+White is for Funerals
+Color Vs. Color
+Colors Change Each Other
+img/260px-ColourIllusion2.jpg
+Colors Change Each Other
+People See Colors Differently
+Color Cones
+Monochromacy
+Dichromacy 
+Anomalous Trichromacy 
+Different Monitors
+Different Lighting
+Different Devices
+img/fo.png
+img/po.png
+img/fn.png
+img/pn.png
+Standards to guide us
+WCAG 2.0 1.4.1 Level A
+Color is not used as the <em>only</em><br />visual means of conveying information,<br />indicating an action,<br />prompting a response, or<br />distinguishing a visual element
+Shapes, Words, Colors, Size, Weight
+WCAG 2.0 1.4.3 Level AA
+The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except
+Large Text (18+&nbsp;point or 14+&nbsp;bold&nbsp;point) 
+3:1
+Incidental/Pictorial
+Logotypes
+WCAG 2.0 1.4.6 Level AAA
+7:1
+Large Text - 4.5:1
+What Is a contrast Ratio?
+MATH!
+#990000
+153,0,0
+0.6,0,0
+#bada55
+186,218,85
+0.72,0.85,0.33
+L&nbsp;=&nbsp;0.2126&nbsp;*&nbsp;R&nbsp;+&nbsp;0.7152&nbsp;*&nbsp;G&nbsp;+&nbsp;0.0722&nbsp;*&nbsp;B
+R, G, B Not so simple
+if&nbsp;(&nbsp;R&nbsp;<=&nbsp;0.03928)<br />R&nbsp;=&nbsp;R/12.92<br />else<br />R&nbsp;((R&nbsp;+&nbsp;0.055)/1.055)^2.4
+Lumiance Difference
+Tools
+Contrast Ratio
+Apoc
+Color Oracle
+Summary
+Practical Colors
+Less is Often More
+Consider Internationalization 
+Color Interaction
+Don't Rely on Color
+"Click the Red Button"
+Color Has Meaning
+People See Color Differently
+Color Contrast
+<a href="http://twitter.com/share?text=Hey%20%40ericavarlese%2C%20%40aaronjorbin%20is%20thinking%20of%20you">Hey @ericavarlse, @aaronjorbin is thinking of you</a>
